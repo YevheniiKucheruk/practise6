@@ -1,0 +1,8 @@
+.sidebar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-row:3/9 ;
+    grid-column:8/11 ;
+    background: lightblue;
+}

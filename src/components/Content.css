@@ -1,0 +1,9 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column:1/9 ;
+    grid-row: 3/9;
+    background: black;
+    color:white;
+}
