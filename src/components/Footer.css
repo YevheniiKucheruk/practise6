@@ -1,8 +1,12 @@
-footer{
+.footer1 {
     display: flex;
     justify-content: center;
     align-items: center;
     grid-row: 9/11;
     grid-column: 1/11;
     background: gray;
+  }
+.footer1 li{
+    display: inline;
 }
+  
